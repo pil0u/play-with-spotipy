@@ -1,3 +1,4 @@
 ipykernel==6.13.0
+pandas==1.4.2
 python-dotenv==0.20.0
 spotipy==2.19.0
